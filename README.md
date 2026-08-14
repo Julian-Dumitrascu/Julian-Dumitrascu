@@ -1,4 +1,5 @@
 I and others have been in this situation: One finds a database about one or more people. One wants to understand this person and to communicate with them. "How? Where do I start?"
+
 One can open the first repository pinned here, then the first [issue](https://github.com/Julian-Dumitrascu/communication/issues/5) pinned in it.
 I am willing to change any dataset in agreement with you so that our dialogue brings you some of the things you want.
 You can search my projects and my repositories for the words referring to what is topical for you. It is easy to join or start a public conversation.
